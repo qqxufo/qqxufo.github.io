@@ -101,6 +101,15 @@ a:hover {
     margin-right: 0;
   }
 }
+.float-right {
+  float: right;
+}
+.post-count {
+  color: #999;
+  font: 0.8em "Microsoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin-bottom: 5px;
+  display: inline;
+}
 #header {
   text-shadow: 0 0 1px #fff;
   margin: 50px auto;
